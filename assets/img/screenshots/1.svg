@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Oval" cx="15" cy="15" r="15" fill="rgba(213,213,213,0.42)"/>
+    </clipPath>
+    <filter id="Rectangle_4" x="2" y="222" width="371" height="154.135" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <path id="Shape" d="M2.414,7,7.707,1.707A1,1,0,0,0,6.293.293l-6,6a1,1,0,0,0,0,1.414l6,6a1,1,0,1,0,1.414-1.414Z" transform="translate(8 5)" fill="#fff"/>
+    </clipPath>
+    <filter id="Rectangle_4-2" x="2" y="371" width="371" height="154.135" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4-3" x="2" y="520" width="371" height="154.135" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4-4" x="2" y="669" width="371" height="154.135" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4-5" x="127" y="103.813" width="246" height="129.188" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-5"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4-6" x="-95" y="103.813" width="246" height="129.188" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-6"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_11_Home">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="_11_Home" data-name="11 Home" clip-path="url(#clip-_11_Home)">
+    <rect width="375" height="812" fill="#2a2836"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="11" height="8" transform="translate(22 64.5)" fill="#d0021b"/>
+    <g id="Navigation_Bar_-_Actions" data-name="Navigation Bar - Actions">
+      <rect id="Background" width="375" height="88" fill="none"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(205 44)">
+        <rect id="Rectangle_Copy" data-name="Rectangle Copy" width="170" height="44" fill="none"/>
+        <g id="_Icon" data-name="↳ Icon" transform="translate(128 7)">
+          <g id="Filters_btn">
+            <circle id="Oval-2" data-name="Oval" cx="15" cy="15" r="15" fill="rgba(213,213,213,0.42)"/>
+            <path id="Filters" d="M5.5,13a1.5,1.5,0,1,1,0-3h8a1.5,1.5,0,1,1,0,3Zm-2-5a1.5,1.5,0,1,1,0-3h11a1.5,1.5,0,1,1,0,3Zm-2-5a1.5,1.5,0,1,1,0-3h15a1.5,1.5,0,1,1,0,3Z" transform="translate(6 9)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <text id="Title" transform="translate(32 55)" fill="#d6d5da" font-size="17" font-family="SegoeUI, Segoe UI" letter-spacing="-0.024em"><tspan x="129.249" y="18">الرئيسية</tspan></text>
+      <g id="Left" transform="translate(0 44)">
+        <rect id="Bounds" width="180" height="44" fill="none"/>
+        <g id="Icon_1_Copy" data-name="Icon 1 Copy" transform="translate(13 7)">
+          <g id="search">
+            <circle id="Oval-3" data-name="Oval" cx="15" cy="15" r="15" fill="rgba(213,213,213,0.42)"/>
+            <rect id="Rectangle_2" data-name="Rectangle 2" width="11" height="8" transform="translate(9 13.5)" fill="#d0021b"/>
+            <g id="first-aid-kit" transform="translate(6 7)">
+              <path id="Shape-5" data-name="Shape" d="M17.091,16H.961A.979.979,0,0,1,0,15.03V4.929A.978.978,0,0,1,.961,3.96h4.26V.969A.978.978,0,0,1,6.182,0h5.766a.931.931,0,0,1,.909.969V3.96h4.234A.931.931,0,0,1,18,4.929v10.1A.931.931,0,0,1,17.091,16ZM5.766,8.646v2.667H7.714v2.021h2.572V11.313h1.948V8.646H10.286V6.627H7.714v2.02Zm.7-7.353V3.96H11.61V1.293Z" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Bars_Status_Bar_-_iPhone_X_On_Light" data-name="Bars/Status Bar - iPhone X/On Light">
+      <rect id="Bars_Status_Bar_-_iPhone_X_On_Dark_background" data-name="Bars/Status Bar - iPhone X/On Dark background" width="375" height="44" fill="none"/>
+      <g id="Battery" transform="translate(336 17)">
+        <g id="Border" transform="translate(0 0.333)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" opacity="0.35">
+          <rect width="22" height="11.333" rx="2.667" stroke="none"/>
+          <rect x="0.5" y="0.5" width="21" height="10.333" rx="2.167" fill="none"/>
+        </g>
+        <path id="Cap" d="M0,0V4A2.17,2.17,0,0,0,1.328,2,2.17,2.17,0,0,0,0,0" transform="translate(23 4)" fill="#fff" opacity="0.4"/>
+        <rect id="Capacity" width="18" height="7.333" rx="1.333" transform="translate(2 2.333)" fill="#fff"/>
+      </g>
+      <path id="Wifi" d="M7.637,10.966a.313.313,0,0,1-.221-.093l-2-2.016a.313.313,0,0,1,.01-.456,3.421,3.421,0,0,1,4.419,0,.311.311,0,0,1,.1.226.315.315,0,0,1-.094.23l-2,2.016A.308.308,0,0,1,7.637,10.966Zm3.508-3.538a.311.311,0,0,1-.214-.085,4.9,4.9,0,0,0-6.585,0,.311.311,0,0,1-.214.085.307.307,0,0,1-.22-.091L2.758,6.17a.322.322,0,0,1,0-.459,7.158,7.158,0,0,1,9.752,0,.322.322,0,0,1,.1.229.326.326,0,0,1-.094.23L11.364,7.337A.309.309,0,0,1,11.144,7.428ZM13.8,4.743a.305.305,0,0,1-.214-.087,8.64,8.64,0,0,0-11.907,0,.309.309,0,0,1-.434,0L.094,3.486a.322.322,0,0,1,0-.456,10.9,10.9,0,0,1,15.08,0,.325.325,0,0,1,.1.228.319.319,0,0,1-.094.229L14.023,4.652A.306.306,0,0,1,13.8,4.743Z" transform="translate(315.694 17.331)" fill="#fff"/>
+      <path id="Cellular_Connection" d="M16,10.667H15a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,16,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1V3.334a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,11.334,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1v4A1,1,0,0,1,6.666,10.667ZM2,10.667H1a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1v2A1,1,0,0,1,2,10.667Z" transform="translate(293.667 17.667)" fill="#fff"/>
+      <g id="Time_Style" data-name="Time Style" transform="translate(21 9)">
+        <rect id="Bars_Status_Bar_-_iPhone_X__Time_On_Dark_background" data-name="Bars/Status Bar - iPhone X/_Time/On Dark background" width="54" height="21" fill="none"/>
+        <text id="_Time" data-name="↳ Time" transform="translate(0 5.33)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" letter-spacing="-0.02em"><tspan x="13.695" y="16">9:41</tspan></text>
+      </g>
+    </g>
+    <g id="Electricity" transform="translate(20 232)">
+      <g transform="matrix(1, 0, 0, 1, -20, -232)" filter="url(#Rectangle_4)">
+        <path id="Rectangle_4-7" data-name="Rectangle 4" d="M0,4A4,4,0,0,1,4.026,0l327,2.135a4,4,0,0,1,3.974,4v108a4,4,0,0,1-4.026,4L3.974,116A4,4,0,0,1,0,112Z" transform="translate(20 232)" fill="#3d3a4e"/>
+      </g>
+      <text id="الكهرباء" transform="translate(251 55)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-42.082" y="0">الكهرباء</tspan></text>
+      <text id="_10_من_الخدمات_الفرعي" data-name="10 من الخدمات الفرعي" transform="translate(251 74)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-112.992" y="0">10 </tspan><tspan y="0">من الخدمات الفرعية</tspan></text>
+      <g id="Icon" transform="translate(261 31)">
+        <g id="path" transform="translate(10 1)">
+          <path id="Combined_Shape" data-name="Combined Shape" d="M3.173,39.706H0V7.138A7.144,7.144,0,0,1,8.724.177,7.141,7.141,0,0,0,3.173,7.138V39.705Z" transform="translate(0.552 0.794)" fill="#d6e9ff"/>
+          <path id="Combined_Shape-2" data-name="Combined Shape" d="M10.715,51.157a7.141,7.141,0,0,1-7.138-7.144V11.451s.138-3.224-.062-7.032A6.231,6.231,0,0,0,0,0S6.372,1.066,6.829,7.328L6.749,44.013A7.145,7.145,0,0,0,12.3,50.98,7.155,7.155,0,0,1,10.715,51.157Z" transform="translate(11.251 1.255)" fill="#d6e9ff"/>
+          <path id="Path_3" data-name="Path 3" d="M0,39.825s.057-20.8.057-33.164c.036-8.952,14.46-8.81,14.38,0,0,9.307-.152,28.685-.152,38.858.152,8.77,14.3,8.533,14.3,0,0-6.466-.014-22.7-.014-22.7" transform="translate(0.517 0.9)" fill="none" stroke="#7984f3" stroke-miterlimit="10" stroke-width="1.6"/>
+        </g>
+        <g id="Jek" transform="translate(5 40.706)">
+          <g id="Rectangle_3" data-name="Rectangle 3" fill="none" stroke="#dc49f9" stroke-miterlimit="10" stroke-width="1.6">
+            <path d="M5.552,0h0A5.552,5.552,0,0,1,11.1,5.552v5.566a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5.552A5.552,5.552,0,0,1,5.552,0Z" stroke="none"/>
+            <path d="M5.552.8h0A4.752,4.752,0,0,1,10.3,5.552V10.27a.048.048,0,0,1-.048.048H.848A.048.048,0,0,1,.8,10.27V5.552A4.752,4.752,0,0,1,5.552.8Z" fill="none"/>
+          </g>
+          <path id="Path_2" data-name="Path 2" d="M.793,0V4.765" transform="translate(2.379 9.529)" fill="none" stroke="#dc49f9" stroke-miterlimit="10" stroke-width="1.6"/>
+          <path id="Path_2_Copy" data-name="Path 2 Copy" d="M.793,0V4.765" transform="translate(7.138 9.529)" fill="none" stroke="#dc49f9" stroke-miterlimit="10" stroke-width="1.6"/>
+        </g>
+        <g id="lamp" transform="translate(27.207 1)">
+          <g id="Combined_Shape-3" data-name="Combined Shape" transform="translate(3.966 3.971)" fill="none" stroke-miterlimit="10">
+            <path d="M11.9,14.679v1.052A1.969,1.969,0,0,1,9.916,17.7H5.946a1.969,1.969,0,0,1-1.981-1.966V14.679A7.855,7.855,0,0,1,7.931,0,7.855,7.855,0,0,1,11.9,14.679Z" stroke="none"/>
+            <path d="M 9.915674209594727 16.09747886657715 C 10.12925434112549 16.09747886657715 10.29655456542969 15.93653964996338 10.29655456542969 15.73108959197998 L 10.29655456542969 14.67881965637207 L 10.29655456542969 13.75212955474854 L 11.10036468505859 13.29098987579346 C 13.05057430267334 12.17216968536377 14.26206493377686 10.09325981140137 14.26206493377686 7.865549564361572 C 14.26206493377686 4.410709857940674 11.42197418212891 1.599999666213989 7.931034564971924 1.599999666213989 C 4.440094470977783 1.599999666213989 1.600004553794861 4.410709857940674 1.600004553794861 7.865549564361572 C 1.600004553794861 10.09325981140137 2.811494588851929 12.17216968536377 4.761704444885254 13.29098987579346 L 5.56551456451416 13.75212955474854 L 5.56551456451416 14.67881965637207 L 5.56551456451416 15.73108959197998 C 5.56551456451416 15.93653964996338 5.732814788818359 16.09747886657715 5.946394443511963 16.09747886657715 L 9.915674209594727 16.09747886657715 M 9.915674209594727 17.69747924804688 L 5.946394443511963 17.69747924804688 C 4.852384567260742 17.69747924804688 3.965514659881592 16.82466888427734 3.965514659881592 15.73108959197998 L 3.965514659881592 14.67881965637207 C 1.594924569129944 13.31882953643799 4.564971732179401e-06 10.77690982818604 4.564971732179401e-06 7.865549564361572 C 4.564971732179401e-06 3.521529674530029 3.550844669342041 -3.7597655477839e-07 7.931034564971924 -3.7597655477839e-07 C 12.31122493743896 -3.7597655477839e-07 15.86206436157227 3.521529674530029 15.86206436157227 7.865549564361572 C 15.86206436157227 10.77690982818604 14.26714420318604 13.31882953643799 11.89655494689941 14.67881965637207 L 11.89655494689941 15.73108959197998 C 11.89655494689941 16.81710052490234 11.01749420166016 17.69747924804688 9.915674209594727 17.69747924804688 Z" stroke="none" fill="#f5d328"/>
+          </g>
+          <path id="Path_4" data-name="Path 4" d="M2.325,3.348,0,0H4.651L2.325,3.348v0Z" transform="translate(9.593 12.851)" fill="none" stroke="#f5d328" stroke-miterlimit="10" stroke-width="0.8"/>
+          <path id="Path_5" data-name="Path 5" d="M0,.794H3.078" transform="translate(20.693 10.725)" fill="none" stroke="#f5d328" stroke-miterlimit="10" stroke-width="0.8"/>
+          <path id="Path_5-2" data-name="Path 5" d="M0,.794H3.078" transform="translate(0.072 10.725)" fill="none" stroke="#f5d328" stroke-miterlimit="10" stroke-width="0.8"/>
+          <path id="Path_6" data-name="Path 6" d="M.793,0V3.136" transform="translate(10.693 0.022)" fill="none" stroke="#f5d328" stroke-miterlimit="10" stroke-width="0.8"/>
+          <path id="Path_6-2" data-name="Path 6" d="M2.215,0,0,2.217" transform="translate(19.034 3.176)" fill="none" stroke="#f5d328" stroke-miterlimit="10" stroke-width="0.8"/>
+          <path id="Path_6_Copy" data-name="Path 6 Copy" d="M-2.215,0,0,2.217" transform="translate(4.594 3.176)" fill="none" stroke="#f5d328" stroke-miterlimit="10" stroke-width="0.8"/>
+          <path id="Path-2" data-name="Path" d="M0,.983H4.082" transform="translate(9.909 22.651)" fill="none" stroke="#f5d328" stroke-miterlimit="10" stroke-width="1.6"/>
+        </g>
+        <g id="dot" transform="translate(5 17.676)">
+          <ellipse id="Oval_2" data-name="Oval 2" cx="1.19" cy="1.191" rx="1.19" ry="1.191" transform="translate(37.276 16.676)" fill="#f5d328"/>
+          <ellipse id="Oval_2_Copy" data-name="Oval 2 Copy" cx="1.19" cy="1.191" rx="1.19" ry="1.191" transform="translate(37.276 11.912)" fill="#dc49f9"/>
+          <ellipse id="Oval_2_Copy_2" data-name="Oval 2 Copy 2" cx="1.19" cy="1.191" rx="1.19" ry="1.191" transform="translate(37.276 21.441)" fill="#dc49f9"/>
+          <ellipse id="Oval_2_Copy_4" data-name="Oval 2 Copy 4" cx="1.19" cy="1.191" rx="1.19" ry="1.191" transform="translate(0 0)" fill="#dc49f9"/>
+          <ellipse id="Oval_2_Copy_3" data-name="Oval 2 Copy 3" cx="1.19" cy="1.191" rx="1.19" ry="1.191" transform="translate(0 4.765)" fill="#f5d328"/>
+        </g>
+      </g>
+      <g id="chevron-left" transform="translate(37 47)" opacity="0.437">
+        <path id="Shape-6" data-name="Shape" d="M2.414,7,7.707,1.707A1,1,0,0,0,6.293.293l-6,6a1,1,0,0,0,0,1.414l6,6a1,1,0,1,0,1.414-1.414Z" transform="translate(8 5)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Electricity_Copy" data-name="Electricity Copy" transform="translate(20 381)">
+      <g transform="matrix(1, 0, 0, 1, -20, -381)" filter="url(#Rectangle_4-2)">
+        <path id="Rectangle_4-8" data-name="Rectangle 4" d="M0,4A4,4,0,0,1,4.026,0l327,2.135a4,4,0,0,1,3.974,4v108a4,4,0,0,1-4.026,4L3.974,116A4,4,0,0,1,0,112Z" transform="translate(20 381)" fill="#3d3a4e"/>
+      </g>
+      <text id="التكييف" transform="translate(251 55)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-43.251" y="0">التكييف</tspan></text>
+      <text id="_4_من_الخدمات_الفرعية" data-name="4 من الخدمات الفرعية" transform="translate(251 74)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-106.523" y="0">4 </tspan><tspan y="0">من الخدمات الفرعية</tspan></text>
+      <g id="Icon-2" data-name="Icon" transform="translate(262 32)">
+        <g id="Group_4" data-name="Group 4" transform="translate(5 2)">
+          <g id="fan" transform="translate(1.6 2.4)">
+            <path id="Combined_Shape-4" data-name="Combined Shape" d="M8.813,16.46C3.953,16.46,0,14.86,0,12.893a5.3,5.3,0,0,1,1.083-2C2.555,8.74,5.017,5.131,4.924,0H8.8c-.037,4.92-2.42,8.412-3.844,10.5a5.3,5.3,0,0,0-1.083,2c0,1.967,3.953,3.568,8.813,3.568h.172A19.779,19.779,0,0,1,8.813,16.46Z" transform="translate(12.759 32.666)" fill="#d0e5ff"/>
+            <g id="Combined_Shape-5" data-name="Combined Shape" transform="translate(12.759 32.666)" fill="none" stroke-miterlimit="10">
+              <path d="M17.625,12.892c0,1.97-3.945,3.568-8.812,3.568S0,14.863,0,12.892C0,11.523,5.057,7.321,4.924,0h8.143C12.846,7.524,17.625,11.523,17.625,12.892Z" stroke="none"/>
+              <path d="M 8.812386512756348 14.8598804473877 C 10.80370616912842 14.8598804473877 12.69703674316406 14.57107067108154 14.14359664916992 14.04666042327881 C 15.35037803649902 13.60917854309082 15.83758163452148 13.1538028717041 15.98089027404785 12.95166492462158 C 15.84058094024658 12.68679046630859 15.54269027709961 12.23300647735596 15.29398632049561 11.85415077209473 C 14.03329181671143 9.933717727661133 11.79252243041992 6.520385265350342 11.49335193634033 1.600000381469727 L 6.477027893066406 1.600000381469727 C 6.111739158630371 6.365630149841309 3.826855659484863 9.713800430297852 2.404816627502441 11.7974100112915 C 2.131427764892578 12.19798851013184 1.804095864295959 12.67760372161865 1.648782134056091 12.95848751068115 C 1.798079609870911 13.16390037536621 2.28775429725647 13.61402130126953 3.481176614761353 14.04666042327881 C 4.927736282348633 14.57107067108154 6.821066379547119 14.8598804473877 8.812386512756348 14.8598804473877 M 8.812386512756348 16.45988082885742 C 3.945436477661133 16.45988082885742 -3.487243702693377e-06 14.86259078979492 -3.487243702693377e-06 12.89223003387451 C -3.487243702693377e-06 11.52319049835205 5.057126522064209 7.320980548858643 4.924336433410645 4.14428711792425e-07 C 7.449896335601807 4.14428711792425e-07 10.63547611236572 4.14428711792425e-07 13.06734657287598 4.14428711792425e-07 C 12.84603691101074 7.524290561676025 17.62477684020996 11.52319049835205 17.62477684020996 12.89223003387451 C 17.62477684020996 14.86259078979492 13.67933654785156 16.45988082885742 8.812386512756348 16.45988082885742 Z" stroke="none" fill="#dc49f9"/>
+            </g>
+            <path id="Combined_Shape-6" data-name="Combined Shape" d="M16.294,32.883A16.442,16.442,0,1,1,21.511.78H21.33a16.442,16.442,0,0,0-5.036,32.1Z" transform="translate(5.003 0.352)" fill="#d0e5ff"/>
+            <g id="Oval-4" data-name="Oval" transform="translate(5.003 0.352)" fill="none" stroke="#7b86f4" stroke-miterlimit="10" stroke-width="1.6">
+              <ellipse cx="16.482" cy="16.442" rx="16.482" ry="16.442" stroke="none"/>
+              <ellipse cx="16.482" cy="16.442" rx="15.682" ry="15.642" fill="none"/>
+            </g>
+            <path id="Path_16" data-name="Path 16" d="M0,7.587s1.741-.553,2.431-4.029,2.8-4.572,4.342-2.545,4.545,8.715.91,9.728a7.8,7.8,0,0,1-5.9-.38Z" transform="translate(22.217 6.572)" fill="none" stroke="#7b86f4" stroke-miterlimit="10" stroke-width="1.6"/>
+            <path id="Path_16_Copy" data-name="Path 16 Copy" d="M5.936,0S5.766,1.815,8.7,3.807s3.123,4.36.651,4.981S-.462,9.556.023,5.823A7.756,7.756,0,0,1,2.679.554" transform="translate(16.659 18.171)" fill="none" stroke="#7b86f4" stroke-miterlimit="10" stroke-width="1.6"/>
+            <path id="Path_16_Copy_2" data-name="Path 16 Copy 2" d="M9.486,8.38s-1.527-1-4.669.651S-.508,9.735.1,7.266,4.031-1.742,7.108.438a7.758,7.758,0,0,1,3.417,4.813" transform="translate(10.256 8.253)" fill="none" stroke="#7b86f4" stroke-miterlimit="10" stroke-width="1.6"/>
+            <g id="Oval_6" data-name="Oval 6" transform="translate(18.576 13.892)" fill="none" stroke="#7b86f4" stroke-miterlimit="10" stroke-width="1.6">
+              <ellipse cx="2.909" cy="2.902" rx="2.909" ry="2.902" stroke="none"/>
+              <ellipse cx="2.909" cy="2.902" rx="2.109" ry="2.102" fill="none"/>
+            </g>
+          </g>
+          <g id="dots" transform="translate(0.6 0.4)">
+            <ellipse id="Oval_7" data-name="Oval 7" cx="1.454" cy="1.451" rx="1.454" ry="1.451" transform="translate(35.089 33.302)" fill="#e05cfa"/>
+            <ellipse id="Oval_7_Copy_4" data-name="Oval 7 Copy 4" cx="1.454" cy="1.451" rx="1.454" ry="1.451" transform="translate(0.186 0.417)" fill="#f5d328"/>
+            <ellipse id="Oval_7_Copy_2" data-name="Oval 7 Copy 2" cx="1.454" cy="1.451" rx="1.454" ry="1.451" transform="translate(35.089 39.105)" fill="#e05cfa"/>
+            <ellipse id="Oval_7_Copy" data-name="Oval 7 Copy" cx="1.454" cy="1.451" rx="1.454" ry="1.451" transform="translate(40.906 33.302)" fill="#e05cfa"/>
+            <ellipse id="Oval_7_Copy_5" data-name="Oval 7 Copy 5" cx="1.454" cy="1.451" rx="1.454" ry="1.451" transform="translate(6.003 0.417)" fill="#f5d328"/>
+            <ellipse id="Oval_7_Copy_3" data-name="Oval 7 Copy 3" cx="1.454" cy="1.451" rx="1.454" ry="1.451" transform="translate(40.906 39.105)" fill="#e05cfa"/>
+          </g>
+        </g>
+      </g>
+      <g id="chevron-left-3" data-name="chevron-left" transform="translate(37 47)" opacity="0.44">
+        <path id="Shape-7" data-name="Shape" d="M2.414,7,7.707,1.707A1,1,0,0,0,6.293.293l-6,6a1,1,0,0,0,0,1.414l6,6a1,1,0,1,0,1.414-1.414Z" transform="translate(8 5)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Electricity_Copy_2" data-name="Electricity Copy 2" transform="translate(20 530)">
+      <g transform="matrix(1, 0, 0, 1, -20, -530)" filter="url(#Rectangle_4-3)">
+        <path id="Rectangle_4-9" data-name="Rectangle 4" d="M0,4A4,4,0,0,1,4.026,0l327,2.135a4,4,0,0,1,3.974,4v108a4,4,0,0,1-4.026,4L3.974,116A4,4,0,0,1,0,112Z" transform="translate(20 530)" fill="#3d3a4e"/>
+      </g>
+      <text id="السباكة" transform="translate(251 55)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-42.082" y="0">السباكة</tspan></text>
+      <text id="_5_من_الخدمات_الفرعية" data-name="5 من الخدمات الفرعية" transform="translate(251 74)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-106.523" y="0">5 </tspan><tspan y="0">من الخدمات الفرعية</tspan></text>
+      <g id="Icon-3" data-name="Icon" transform="translate(262 30)">
+        <g id="Group" transform="translate(4 1)">
+          <g id="Group_2-2" data-name="Group 2" transform="translate(0 0.6)">
+            <path id="Combined_Shape-7" data-name="Combined Shape" d="M14.9,50.414a14.433,14.433,0,0,1-10.7-4.6A16.2,16.2,0,0,1,0,34.7V0H11.179V.8H3.2V33.1A15.71,15.71,0,0,0,22.629,48.368,15.549,15.549,0,0,1,14.9,50.414Zm4-14a3.952,3.952,0,0,1-.688-.059,4.083,4.083,0,0,0,.82-2.466l.07-6.663-.034-7.264h4.007l.027,5.665-.071,6.662A4.133,4.133,0,0,1,18.9,36.417Z" transform="translate(1.6 3.279)" fill="#d6e9ff"/>
+            <g id="Combined_Shape-8" data-name="Combined Shape" transform="translate(1.6 0.8)" fill="none" stroke-miterlimit="10">
+              <path d="M14.9,52.893a14.432,14.432,0,0,1-10.7-4.6A16.2,16.2,0,0,1,0,37.184V2.48H11.179V36.371a4.436,4.436,0,0,0,1.006,2.915A3.482,3.482,0,0,0,14.9,40.5a4.133,4.133,0,0,0,4.132-4.126l.07-6.663-.038-8.064h11.42V37.184a15.689,15.689,0,0,1-4.539,11.108A15.42,15.42,0,0,1,14.9,52.893ZM30.487,18.425H19.052l-.017-3.549A14.872,14.872,0,0,1,33.91,0h10.1l.014,10.46H35.622a5.149,5.149,0,0,0-5.135,4.117v3.847Z" stroke="none"/>
+              <path d="M 14.90310001373291 51.29299926757813 C 18.66013336181641 51.29299926757813 22.17867851257324 49.82755661010742 24.81055641174316 47.16661071777344 C 27.43961143493652 44.50852203369141 28.88750076293945 40.9631233215332 28.88750076293945 37.18350219726563 L 28.88750076293945 23.24410057067871 L 20.67461967468262 23.24410057067871 L 20.70517730712891 29.70052337646484 L 20.70524406433105 29.71274566650391 L 20.70511054992676 29.72495651245117 L 20.6349925994873 36.3798942565918 C 20.62997817993164 39.53277206420898 18.06059074401855 42.09640121459961 14.90310001373291 42.09640121459961 C 13.3529109954834 42.09640121459961 11.95765590667725 41.46958923339844 10.97435569763184 40.3314323425293 C 10.07447814941406 39.28982162475586 9.578900337219238 37.88324356079102 9.578900337219238 36.37080001831055 L 9.578900337219238 4.079500675201416 L 1.599999904632568 4.079500675201416 L 1.599999904632568 37.18350219726563 C 1.599999904632568 41.02618789672852 2.939422130584717 44.58404541015625 5.371544361114502 47.20166778564453 C 7.822911262512207 49.84000015258789 11.2079553604126 51.29299926757813 14.90310001373291 51.29299926757813 M 28.88750076293945 16.82480049133301 L 28.88750076293945 14.57640075683594 L 28.88750076293945 14.40381145477295 L 28.9243106842041 14.23517894744873 C 29.62612152099609 11.02000045776367 32.31772232055664 8.859800338745117 35.62200164794922 8.859800338745117 L 42.4257926940918 8.859800338745117 L 42.41579818725586 1.600000739097595 L 33.91019821166992 1.600000739097595 C 30.3620548248291 1.600000739097595 27.02761077880859 2.980856418609619 24.52109909057617 5.488189697265625 C 22.01572227478027 7.99442195892334 20.63567543029785 11.32735919952393 20.63500022888184 14.87343311309814 L 20.64423942565918 16.82480049133301 L 28.88750076293945 16.82480049133301 M 14.90310001373291 52.89300155639648 C 10.75821113586426 52.89300155639648 6.956900119781494 51.2585563659668 4.199399948120117 48.29074478149414 C 1.491366624832153 45.37615585327148 -6.1035152043587e-08 41.43154525756836 -6.1035152043587e-08 37.18350219726563 L -6.1035152043587e-08 2.479500770568848 L 11.17889976501465 2.479500770568848 L 11.17889976501465 36.37080001831055 C 11.17889976501465 37.49929046630859 11.53624439239502 38.53438949584961 12.18509960174561 39.28544616699219 C 12.86952209472656 40.07765579223633 13.80938911437988 40.49639892578125 14.90310001373291 40.49639892578125 C 17.18144416809082 40.49639892578125 19.03499984741211 38.64565658569336 19.03499984741211 36.37080001831055 L 19.10519981384277 29.70810127258301 L 19.0670337677002 21.64410018920898 L 30.48749923706055 21.64410018920898 L 30.48749923706055 37.18350219726563 C 30.48749923706055 41.38718032836914 28.8753776550293 45.33218002319336 25.94812202453613 48.29175567626953 C 23.01336669921875 51.2589111328125 19.09084510803223 52.89300155639648 14.90310001373291 52.89300155639648 Z M 30.48749923706055 18.42480087280273 L 30.48649978637695 18.42480087280273 L 19.05179977416992 18.42480087280273 L 19.03499984741211 14.87610054016113 C 19.03499984741211 10.90177822113037 20.58146667480469 7.16603422164917 23.38953399658203 4.357011795043945 C 26.19826698303223 1.547356367111206 29.93457794189453 7.781982276355848e-07 33.91019821166992 7.781982276355848e-07 L 44.01359939575195 7.781982276355848e-07 L 44.02799987792969 10.45980072021484 L 35.62200164794922 10.45980072021484 C 33.0883674621582 10.45980072021484 31.02496719360352 12.11414527893066 30.48749923706055 14.57640075683594 L 30.48749923706055 18.42380142211914 L 30.48749923706055 18.42480087280273 Z" stroke="none" fill="#7a85f4"/>
+            </g>
+            <path id="Rectangle_2-2" data-name="Rectangle 2" d="M.066,0H12.795l.017,1.582L0,1.6Z" transform="translate(0.782 0.855)" fill="#dc49f9"/>
+            <path id="Rectangle_2_Copy" data-name="Rectangle 2 Copy" d="M0,.039,11.989,0V1.561L0,1.6Z" transform="translate(48 0) rotate(90)" fill="#dc49f9"/>
+            <path id="Rectangle_2_Copy_3" data-name="Rectangle 2 Copy 3" d="M0,0,12.78.04V1.6L0,1.56Z" transform="translate(20.036 20.024)" fill="#f5d328"/>
+          </g>
+          <g id="ddot" transform="translate(36.8 17.4)">
+            <circle id="Oval_4" data-name="Oval 4" cx="1.2" cy="1.2" r="1.2" transform="translate(0 0)" fill="#de50fa"/>
+            <circle id="Oval_4_Copy" data-name="Oval 4 Copy" cx="1.2" cy="1.2" r="1.2" transform="translate(0 4.8)" fill="#de50fa"/>
+            <circle id="Oval_4_Copy_2" data-name="Oval 4 Copy 2" cx="1.2" cy="1.2" r="1.2" transform="translate(0 9.6)" fill="#de50fa"/>
+            <circle id="Oval_4_Copy_3" data-name="Oval 4 Copy 3" cx="1.2" cy="1.2" r="1.2" transform="translate(0 14.4)" fill="#f6d73b"/>
+          </g>
+        </g>
+      </g>
+      <g id="chevron-left-5" data-name="chevron-left" transform="translate(37 47)" opacity="0.44">
+        <path id="Shape-8" data-name="Shape" d="M2.414,7,7.707,1.707A1,1,0,0,0,6.293.293l-6,6a1,1,0,0,0,0,1.414l6,6a1,1,0,1,0,1.414-1.414Z" transform="translate(8 5)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Electricity_Copy_3" data-name="Electricity Copy 3" transform="translate(20 679)">
+      <g transform="matrix(1, 0, 0, 1, -20, -679)" filter="url(#Rectangle_4-4)">
+        <path id="Rectangle_4-10" data-name="Rectangle 4" d="M0,4A4,4,0,0,1,4.026,0l327,2.135a4,4,0,0,1,3.974,4v108a4,4,0,0,1-4.026,4L3.974,116A4,4,0,0,1,0,112Z" transform="translate(20 679)" fill="#3d3a4e"/>
+      </g>
+      <text id="البناء" transform="translate(251 55)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-26.886" y="0">البناء</tspan></text>
+      <text id="_3_من_الخدمات_الفرعية" data-name="3 من الخدمات الفرعية" transform="translate(251 74)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-106.523" y="0">3 </tspan><tspan y="0">من الخدمات الفرعية</tspan></text>
+      <g id="Icon-4" data-name="Icon" transform="translate(260 32)">
+        <g id="Group_3" data-name="Group 3" transform="translate(0 1)">
+          <path id="Path_9" data-name="Path 9" d="M.8.495v12.33" transform="translate(8.8 0.305)" fill="none" stroke="#dc49f9" stroke-miterlimit="10" stroke-width="1.6"/>
+          <path id="Path_10" data-name="Path 10" d="M.8.236V6.6" transform="translate(16 5.364)" fill="none" stroke="#dc49f9" stroke-miterlimit="10" stroke-width="1.6"/>
+          <path id="Path_11" data-name="Path 11" d="M.8,0V13.216" transform="translate(20.8)" fill="none" stroke="#dc49f9" stroke-miterlimit="10" stroke-width="1.6"/>
+          <path id="Combined_Shape-9" data-name="Combined Shape" d="M17.735,31.317h0L3.226,21.293A68.033,68.033,0,0,1,.737,12.528,29.637,29.637,0,0,1,.012,5.645C.1,3.3.689,1.642,1.755.715A4,4,0,0,1,2.982,0C2.488,3.437,3.4,8.153,4.259,11.5c.925,3.621,1.984,6.484,1.995,6.512l14.922,10.31-3.441,2.991Z" transform="translate(8.13 11.047)" fill="#d0e5ff"/>
+          <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(0.533 19.89) rotate(-41)" fill="none" stroke-miterlimit="10">
+            <path d="M12.39,0c6.2,0,12.39,16.5,12.39,16.5L20.407,33.58H4.373L0,16.5S6.2,0,12.39,0Z" stroke="none"/>
+            <path d="M 12.39009857177734 1.599998474121094 C 11.4525089263916 1.599998474121094 10.28607845306396 2.313098907470703 9.016898155212402 3.662187576293945 C 7.822698593139648 4.931587219238281 6.566389083862305 6.728578567504883 5.282869338989258 9.003238677978516 C 3.484840393066406 12.18971252441406 2.14460563659668 15.42417335510254 1.677677154541016 16.59789085388184 L 5.615018844604492 31.98011779785156 L 19.1651782989502 31.98011779785156 L 23.10258483886719 16.59763336181641 C 22.63800621032715 15.42893409729004 21.3077507019043 12.21702575683594 19.51425933837891 9.033267974853516 C 18.22848892211914 6.750797271728516 16.96978759765625 4.94721794128418 15.77312850952148 3.672647476196289 C 14.50006866455078 2.316707611083984 13.33023834228516 1.599998474121094 12.39009857177734 1.599998474121094 M 12.39009857177734 0 C 18.58514785766602 0 24.78019905090332 16.49595832824707 24.78019905090332 16.49595832824707 L 20.40721893310547 33.58011627197266 L 4.372978210449219 33.58011627197266 L -1.9073486328125e-06 16.49595832824707 C -1.9073486328125e-06 16.49595832824707 6.195049285888672 0 12.39009857177734 0 Z" stroke="none" fill="#7984f3"/>
+          </g>
+          <circle id="Oval_Copy" data-name="Oval Copy" cx="1.2" cy="1.2" r="1.2" transform="translate(37.6 19.2)" fill="#dc49f9"/>
+          <circle id="Oval_Copy_4" data-name="Oval Copy 4" cx="1.2" cy="1.2" r="1.2" transform="translate(6.4 34.4)" fill="#dc49f9"/>
+          <circle id="Oval_Copy_2" data-name="Oval Copy 2" cx="1.2" cy="1.2" r="1.2" transform="translate(42.4 19.2)" fill="#dc49f9"/>
+          <circle id="Oval_Copy_3" data-name="Oval Copy 3" cx="1.2" cy="1.2" r="1.2" transform="translate(37.6 24)" fill="#dc49f9"/>
+          <circle id="Oval_Copy_8" data-name="Oval Copy 8" cx="1.2" cy="1.2" r="1.2" transform="translate(37.6 14.4)" fill="#f7d941"/>
+          <circle id="Oval_Copy_5" data-name="Oval Copy 5" cx="1.2" cy="1.2" r="1.2" transform="translate(42.4 24)" fill="#dc49f9"/>
+          <circle id="Oval_Copy_9" data-name="Oval Copy 9" cx="1.2" cy="1.2" r="1.2" transform="translate(42.4 14.4)" fill="#f7d941"/>
+          <path id="Path_7" data-name="Path 7" d="M0,0,.051,3.017l5.6,11.193" transform="translate(27.281 31.909) rotate(-41)" fill="none" stroke="#f5d328" stroke-miterlimit="10" stroke-width="1.6"/>
+          <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(38.128 40.36) rotate(-41)" fill="#d0e5ff" stroke="#7984f3" stroke-miterlimit="10" stroke-width="1.6">
+            <rect width="6.564" height="17.897" rx="3.282" stroke="none"/>
+            <rect x="0.8" y="0.8" width="4.964" height="16.297" rx="2.482" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="chevron-left-7" data-name="chevron-left" transform="translate(37 47)" opacity="0.44">
+        <path id="Shape-9" data-name="Shape" d="M2.414,7,7.707,1.707A1,1,0,0,0,6.293.293l-6,6a1,1,0,0,0,0,1.414l6,6a1,1,0,1,0,1.414-1.414Z" transform="translate(8 5)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(145 113)">
+      <g transform="matrix(1, 0, 0, 1, -145, -113)" filter="url(#Rectangle_4-5)">
+        <rect id="Rectangle_4-11" data-name="Rectangle 4" width="210" height="93.188" rx="4" transform="translate(145 113.81)" fill="#3d3a4e"/>
+      </g>
+      <text id="_10_من_الخدمات_الفرعي-2" data-name="10 من الخدمات الفرعي" transform="translate(174 52)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-78.445" y="0">الخدمات الفرعية</tspan></text>
+      <text id="تاريخ_لانتهاء" data-name="تاريخ لانتهاء" transform="translate(203 80)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-56.391" y="0">تاريخ لانتهاء</tspan></text>
+      <text id="_6_12_1440" data-name="6 / 12 / 1440" transform="translate(141 80)" fill="#ffbe0b" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="-84.727" y="0">6 / 12 / 1440</tspan></text>
+      <text id="عرض_عيد_الاضحي" data-name="عرض عيد الاضحي" transform="translate(203 23)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-104.713" y="0">عرض عيد الاضحي</tspan></text>
+      <text id="_30_ريال" data-name="30 ريال" transform="translate(8 51)" fill="#fec516" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">30</tspan><tspan y="0" font-size="13"> </tspan><tspan y="0" font-size="9">ريال</tspan></text>
+      <text id="_30_ريال-2" data-name="30 ريال" transform="translate(177 56)" fill="#fec516" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10</tspan></text>
+    </g>
+    <g id="Group_5-2" data-name="Group 5" transform="translate(-77 113)">
+      <g transform="matrix(1, 0, 0, 1, 77, -113)" filter="url(#Rectangle_4-6)">
+        <rect id="Rectangle_4-12" data-name="Rectangle 4" width="210" height="93.188" rx="4" transform="translate(-77 113.81)" fill="#3d3a4e"/>
+      </g>
+      <text id="_10_من_الخدمات_الفرعي-3" data-name="10 من الخدمات الفرعي" transform="translate(174 52)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-78.445" y="0">الخدمات الفرعية</tspan></text>
+      <text id="تاريخ_لانتهاء-2" data-name="تاريخ لانتهاء" transform="translate(203 80)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-56.391" y="0">تاريخ لانتهاء</tspan></text>
+      <text id="_6_12_1440-2" data-name="6 / 12 / 1440" transform="translate(141 80)" fill="#ffbe0b" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="-84.727" y="0">6 / 12 / 1440</tspan></text>
+      <text id="عرض_عيد_الاضحي-2" data-name="عرض عيد الاضحي" transform="translate(203 23)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-86.844" y="0">عرض التخفيض</tspan></text>
+      <text id="_30_ريال-3" data-name="30 ريال" transform="translate(8 51)" fill="#fec516" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">30</tspan><tspan y="0" font-size="13"> </tspan><tspan y="0" font-size="9">ريال</tspan></text>
+      <text id="_30_ريال-4" data-name="30 ريال" transform="translate(177 56)" fill="#fec516" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10</tspan></text>
+    </g>
+  </g>
+</svg>
